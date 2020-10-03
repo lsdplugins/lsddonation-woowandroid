@@ -10,7 +10,6 @@
  *
  * @link              https://lsdplugins.com
  * @since             1.0.0
- * @package           Lsddonation_Wablas
  *
  * @wordpress-plugin
  * Plugin Name:       LSDDonation - WooWandroid
